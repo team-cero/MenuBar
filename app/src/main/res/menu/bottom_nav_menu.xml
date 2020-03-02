@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_culc"
+        android:icon="@drawable/ic_calculator_svgrepo_com"
+        android:title="@string/title_culc" />
+
+    <item
+        android:id="@+id/navigation_goal"
+        android:icon="@drawable/ic_outlined_flag_24px"
+        android:title="@string/title_goal" />
+
+
+    <item
+        android:id="@+id/navigation_record"
+        android:icon="@drawable/ic_create_24px"
+        android:title="@string/title_record" />
+
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@drawable/ic_logout_svgrepo_com"
+        android:title="@string/title_logout" />
+
+</menu>
