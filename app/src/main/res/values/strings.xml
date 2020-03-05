@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Menu</string>
     <string name="title_home">Home</string>
-    <string name="title_culc">Culc</string>
+    <string name="title_calc">Calc</string>
     <string name="title_goal">Goal</string>
     <string name="title_record">Record</string>
     <string name="title_logout">Logout</string>

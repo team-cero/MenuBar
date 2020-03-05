@@ -7,9 +7,9 @@
         android:title="@string/title_home" />
 
     <item
-        android:id="@+id/navigation_culc"
+        android:id="@+id/navigation_calc"
         android:icon="@drawable/ic_calculator_svgrepo_com"
-        android:title="@string/title_culc" />
+        android:title="@string/title_calc" />
 
     <item
         android:id="@+id/navigation_goal"

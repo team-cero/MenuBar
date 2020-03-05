@@ -12,10 +12,10 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-    android:id="@+id/navigation_culc"
-    android:name="com.example.menu.ui.culc.CulcFragment"
-    android:label="@string/title_culc"
-    tools:layout="@layout/fragment_culc" />
+    android:id="@+id/navigation_calc"
+    android:name="com.example.menu.ui.calc.CalcFragment"
+    android:label="@string/title_calc"
+    tools:layout="@layout/fragment_calc" />
 
 
     <fragment
