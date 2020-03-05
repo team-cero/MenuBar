@@ -7,5 +7,5 @@ Bottom Navigation Bar Fragment
 https://github.com/team-cero/CulcToGoalset
 - Goal setting
 https://github.com/team-cero/GoalSetting
-- Record distance that user drived
+- Record distance that user drove
 https://github.com/team-cero/Record
